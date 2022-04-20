@@ -1,0 +1,39 @@
+.fixedtop {
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    color: white;
+    font-family: 'Unica One', cursive;
+    font-size: 18px;
+}
+
+.fixedtopitem {
+    padding: 15px 20px;
+}
+
+.header {
+    background-color: rgb(24, 26, 27);
+    height: 80px;
+}
+
+.logo {
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+}
+
+.headerflex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.headerimg {
+    background-image: linear-gradient(to left, rgb(21, 61, 155), rgb(69, 19, 148));
+    background-color: initial;
+    height: 760px;
+}
+.menuflex {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

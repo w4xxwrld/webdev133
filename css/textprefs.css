@@ -1,0 +1,33 @@
+.headerimgtext {
+    font-size: 52px;
+    color: white;
+    text-align: left;
+    font-family: 'Unica One', cursive;
+    margin: 20px 0px 0px;
+    padding: 0px 0px 10px;
+}
+
+.headerbottomtxt {
+    max-width: 523px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    margin: 0px 0px 10px;
+    color: rgb(168, 160, 149);
+    padding: 0px 0px 10px;
+}
+
+.strtr {
+    color: rgb(94, 141, 215)
+}
+
+.strtr:hover {
+    color: #ADA59D;
+    transition: all 0.4s ease-in-out;
+}
+
+.hrsep {
+    color: rgb(77, 83, 86);
+    width: 100px;
+    margin: 20px 520px;
+}

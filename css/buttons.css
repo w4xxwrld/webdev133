@@ -1,0 +1,53 @@
+.bluebutton {
+    background-color:rgb(22, 160, 181);
+    color:white;
+    border: 2px solid transparent;
+    display: inline-block;
+    padding: 14px 36px;
+    border-radius: 100px;
+    font-size: 18px;
+    font-family: 'Unica One', cursive;
+    font-weight: bold;
+    margin: 26px 0px 0px;
+}
+.bluebutton:hover {
+    background-color:transparent;
+    color:rgb(255, 255, 255);
+    border: 2px solid grey;
+    display: inline-block;
+    padding: 14px 36px;
+    border-radius: 100px;
+    font-size: 18px;
+    font-family: 'Unica One', cursive;
+    font-weight: bold;
+    margin: 26px 0px 0px;
+    transition: all 0.4s ease-in-out;
+}
+
+.bluebutton:active {
+    background-color:transparent;
+    color:white;
+    border: 2px solid greenyellow;
+    display: inline-block;
+    padding: 14px 36px;
+    border-radius: 100px;
+    font-size: 18px;
+    font-family: 'Unica One', cursive;
+    font-weight: bold;
+    margin: 26px 0px 0px;
+    transition: all 0.4s ease-in-out;
+    ;
+}
+
+.bluebutton:focus {
+    background-color: rgb(22, 160, 181);
+    color:white;
+    border: 2px solid greenyellow;
+    display: inline-block;
+    padding: 14px 36px;
+    border-radius: 100px;
+    font-size: 18px;
+    font-family: 'Unica One', cursive;
+    font-weight: bold;
+    margin: 26px 0px 0px;
+}
